@@ -1,0 +1,8 @@
+venv/
+.vscode/
+.idea/
+video/
+audio/
+cleaned_audio/
+__pycache__/
+
